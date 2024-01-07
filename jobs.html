@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TrainWithShubham</title>
+    <link rel="shortcut icon" type="image/png" href="favicon.png">
+    <!--LOAD BOOTSTRAP JQUERY-->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+    <!--LOAD BOOTSTRAP JQUERY-->
+    <!--LOAD CUSTOM CSS-->
+    <link rel="stylesheet" href="Styles/root.css">
+    <link rel="stylesheet" href="Styles/loader.css">
+  </head>
+
+  <style>
+    /* Custom CSS to center the dropdowns */
+    .center-content {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+
+    /* Custom CSS to beautify the dropdown */
+    .custom-dropdown {
+      width: 200px; /* Adjust the width as needed */
+      border-radius: 5px;
+      border: 1px solid #ccc;
+      padding: 8px;
+    }
+  </style>
+
+  <style>
+    .test {
+      border: 1px solid black;
+    }
+
+    .text-rainbow-animation {
+      background-image:
+      linear-gradient(to right, red, orange, green, blue, indigo, red);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      animation: rainbow-animation 100s linear infinite;
+    }
+
+    .text-rainbow-animation1 {
+      background-image:
+      linear-gradient(to right, red, orange, green, cyan, magenta, red);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      animation: rainbow-animation 4000s linear infinite;
+    }
+
+    .text-rainbow-animation2 {
+      background-image:
+      linear-gradient(to right, rgb(100, 100, 0), green, royalblue, black, indigo, purple);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      animation: rainbow-animation 4000s linear infinite;
+    }
+
+    @keyframes rainbow-animation {
+      to {
+        background-position: 5000vh;
+      }
+    }
+  </style>
+
+  <body style="font-family: system-ui, Geneva, Verdana, sans-serif; background-color: #000000;">
+    <div class="container-fluid">
+      <!--HEADER CONTAINER-->
+      <div class="row">
+        <nav class="navbar navbar-default" style="border-radius: 0px;">
+          <div class="container-fluid">
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+              <a class="navbar-brand navbarText" href="/index"><b>TRAIN WITH SHUBHAM</b></a>
+            </div>
+            <div class="collapse navbar-collapse navbar-right" id="myNavbar">
+              <ul class="nav navbar-nav">
+                <li class="navbar-pillet">
+                  <a href="/index" class="navbarText">HOME</a>
+                </li>
+                <li class="navbar-pillet">
+                  <a href="/courses" class="navbarText">COURSES</a>
+                </li>
+                <li class="myactive navbar-pillet">
+                   <a href="/jobs" class="navbarText">DEVOPS JOBS</a>
+                </li>
+                <li class="navbar-pillet">
+                  <a href="/zerotohero" class="navbarText">ZERO TO HERO</a>
+               </li>
+              </ul>
+            </div>
+          </div>
+        </nav>
+      </div>
+    </div>
+
+    
+    
+    <div class="container-fluid" style="background-color: #000000; color: #FFFFFF;">
+      <div class="row" style="background-color: #000000; padding-top:20px;">
+        <div class="col-sm-12" style="display: flex; justify-content: center;">
+          <img style="max-height:200px;" class="img-responsive" src="Src/11.png" alt="circle">
+        </div>
+      </div>
+      <div class="container">
+          <div class="panel-heading text-center" style="text-shadow: 0 0 5px #ffee00">
+              <h2><u>Job opportunities for DevOps Engineers</u></h2>
+            </div>
+      </div>
+    </div>
+
+    <div class="container-fluid" style="background-color: #000000; color: #FFFFFF; display:none;">
+      <div class="row 1">
+        <div class="col-lg-4"></div>
+        <div class="col-lg-4">
+            <div id="maillelo" class="panel panel-default" style="max-width: 100%; width: 85vw; font-size:1.6rem; box-shadow: 0 0 18px 9px rgb(82, 174, 255);">
+                <div class="panel-heading">
+                <h2 class="panel-title"><b>Enter your email</b></h2>
+                </div>
+                <div class="panel-body">
+                <div>
+                    <div class="form-group">
+                    <div id="valid" style="display: none;"><h6 style="color:#ff0000">Enter a valid Email</h6></div>
+                    <input type="email" class="form-control" id="emailInput" placeholder="Email">
+                    </div>
+                    <button id="iet" class="btn btn-primary">Next</button>
+                </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-4"></div>
+      </div>
+
+      <div class="container 2" style="margin-top: 10px; background-color: #000000; color: #FFFFFF;">
+        <div class="col-md-3 center-content">
+          <div class="custom-dropdown" style="margin: 0px 30px 30px 30px;">
+            <label for="minExperience">Minimum Experience:</label>
+            <select class="custom-select" id="minExperience" style="background-color: #000000; color: #FFFFFF;">
+              <option value="0" selected>No Experience</option>
+              <option value="1">1 Year</option>
+              <option value="2">2 Years</option>
+              <option value="3">3 Years</option>
+              <option value="4">4 Years</option>
+              <option value="5">5 Years</option>
+              <!-- Add more options as needed -->
+            </select>
+          </div>
+        </div>
+        <div class="col-md-3 center-content">
+          <div class="custom-dropdown" style="margin: 0px 30px 30px 30px;">
+            <label for="maxExperience">Maximum Experience:</label>
+            <select class="custom-select" id="maxExperience" style="background-color: #000000; color: #FFFFFF;">
+              <option value="10" selected>10+ Years</option>
+              <option value="9">9 Years</option>
+              <option value="8">8 Years</option>
+              <option value="7">7 Years</option>
+              <option value="6">6 Years</option>
+              <option value="5">5 Years</option>
+              <option value="3">3 Years</option>
+              <option value="2">2 Years</option>
+              <option value="1">1 Year</option>
+              <!-- Add more options as needed -->
+            </select>
+          </div>
+        </div>
+        <div class="col-md-3 center-content">
+          <div class="custom-dropdown" style="margin: 0px 30px 30px 30px;">
+            <label for="maxExperience">Company Name:</label>
+            <input class="custom-select" id="maxExperience" style="background-color: #000000; color: #FFFFFF;">
+          </input>
+          </div>
+        </div>
+        <div class="col-md-3 center-content">
+          <div class="custom-dropdown" style="margin: 0px 30px 30px 30px;">
+            <label for="maxExperience">Location:</label>
+            <input class="custom-select" id="maxExperience" style="background-color: #000000; color: #FFFFFF;">
+          </input>
+          </div>
+        </div>
+      </div>
+
+
+      <div class="container 2">
+          <div class="panel-heading text-center" style="text-shadow: 0 0 5px #ffee00" id="cunt">
+              
+          </div>
+      </div>
+    </div>
+
+
+    <div class="container-fluid" style="background-color: #000000;">
+      <div class="container mt-5 2" id="lelo">
+          
+      </div>
+    </div>
+
+    <div class="container-fluid">
+
+        <div class="row" style="background:#000000; text-align: center; color:#FFFFFF;margin-top: 25px;">
+            <div class="col-md-12" style="text-align: center;margin-top: 2px;">
+              <h5 style="margin-bottom:1px;">In case of queries, mail to <b>mentor@trainwithshubham.tech</b>
+              </h5>
+            </div>
+            <div class="col-md-12">
+              <div class="text" style="margin-top: 5px; margin-bottom:5px">
+                <a style="font-size: 80%; margin-left: 10px;" href="/tou.html">TERMS OF USE</a>
+              </div>
+            </div>
+          </div>
+    </div>
+    <script>
+      
+        $(document).ready(function() {
+          $('#iet').click(function(event) {
+            event.preventDefault(); // Prevent form submission
+            var email = $('#emailInput').val();
+            var isValid = email === "" ? false : true;
+            const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+            isValid = emailRegex.test(email);
+            if(isValid)
+            {
+              XYZ(email)
+            }
+            else
+            {
+              const element = document.getElementById("valid");
+              if (element) {
+                element.style.display = "block";
+              }
+            }
+          });
+        });
+    </script>
+    <script src="Scripts/JobDB.js"></script>  
+
+  </body>
+</html>

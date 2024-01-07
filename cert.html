@@ -1,0 +1,403 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TrainWithShubham</title>
+    <link rel="shortcut icon" type="image/png" href="favicon.png">
+    <!--LOAD BOOTSTRAP JQUERY-->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+    <!--LOAD BOOTSTRAP JQUERY-->
+    <!--LOAD CUSTOM CSS-->
+    <link rel="stylesheet" href="Styles/root.css">
+    <link rel="stylesheet" href="Styles/loader.css">
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <!--LOAD CUSTOM CSS-->
+    <style>
+        @import url('https://fonts.googleapis.com/css?family=Open+Sans|Pinyon+Script|Rochester');
+      .test {
+        border: 1px solid black;
+      }
+
+        .cursive {
+        font-family: 'Pinyon Script', cursive;
+        }
+
+        .sans {
+        font-family: 'Open Sans', sans-serif;
+        }
+
+        .bold {
+        font-weight: bold;
+        }
+
+        .block {
+        display: block;
+        }
+
+        .underline {
+        border-bottom: 1px solid #777;
+        padding: 5px;
+        margin-bottom: 15px;
+        }
+
+        .margin-0 {
+        margin: 0;
+        }
+
+        .padding-0 {
+        padding: 0;
+        }
+
+        .pm-empty-space {
+        height: 40px;
+        width: 100%;
+        }
+
+        body {
+        padding: 20px 0;
+        background: #ccc;
+        }
+
+        .pm-certificate-container {
+        position: relative;
+        width: 800px;
+        height: 600px;
+        background-color: #618597;
+        padding: 30px;
+        color: #333;
+        font-family: 'Open Sans', sans-serif;
+        box-shadow: 0 0 5px rgba(0, 0, 0, .5);
+        }
+        
+        .outer-border {
+            width: 794px;
+            height: 594px;
+            position: absolute;
+            left: 50%;
+            margin-left: -397px;
+            top: 50%;
+            margin-top:-297px;
+            border: 2px solid #ffffff;
+        }
+        
+        .inner-border {
+            width: 730px;
+            height: 530px;
+            position: absolute;
+            left: 50%;
+            margin-left: -365px;
+            top: 50%;
+            margin-top:-265px;
+            border: 2px solid #ffffff;
+        }
+
+        .pm-certificate-border {
+            position: relative;
+            width: 720px;
+            height: 520px;
+            padding: 0;
+            border: 1px solid #E1E5F0;
+            background-color: rgba(255, 255, 255, 1);
+            background-image: none;
+            left: 50%;
+            margin-left: -360px;
+            top: 50%;
+            margin-top: -260px;
+
+            .pm-certificate-block {
+            width: 650px;
+            height: 200px;
+            position: relative;
+            left: 50%;
+            margin-left: -325px;
+            top: 70px;
+            margin-top: 0;
+            }
+
+            .pm-certificate-header {
+            margin-bottom: 10px;
+            }
+
+            .pm-certificate-title {
+            position: relative;
+            top: 40px;
+
+            h2 {
+                font-size: 34px !important;
+            }
+            }
+
+            .pm-certificate-body {
+            padding: 20px;
+
+            .pm-name-text {
+                font-size: 20px;
+            }
+            }
+
+            .pm-earned {
+            margin: 15px 0 20px;
+            .pm-earned-text {
+                font-size: 20px;
+            }
+            .pm-credits-text {
+                font-size: 15px;
+            }
+            }
+
+            .pm-course-title {
+            .pm-earned-text {
+                font-size: 20px;
+            }
+            .pm-credits-text {
+                font-size: 15px;
+            }
+            }
+
+            .pm-certified {
+            font-size: 12px;
+
+            .underline {
+                margin-bottom: 5px;
+            }
+            }
+
+            .pm-certificate-footer {
+            width: 650px;
+            height: 100px;
+            position: relative;
+            left: 50%;
+            margin-left: -325px;
+            bottom: -105px;
+            }
+        }
+        }
+
+
+    </style>
+  </head>
+  <body style="font-family: system-ui, Geneva, Verdana, sans-serif; overflow-x: auto; padding:0px;">
+    <div class="container-fluid">
+      <!--HEADER CONTAINER-->
+      <div class="row">
+        <nav class="navbar navbar-default" style="border-radius: 0px;">
+          <div class="container-fluid">
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+              <a class="navbar-brand navbarText" href="/index"><b>TRAIN WITH SHUBHAM</b></a>
+            </div>
+            <div class="collapse navbar-collapse navbar-right" id="myNavbar">
+              <ul class="nav navbar-nav">
+                <li class=" navbar-pillet">
+                  <a href="/index" class="navbarText">HOME</a>
+                </li>
+                <li class="navbar-pillet">
+                  <a href="/courses" class="navbarText">COURSES</a>
+                </li>
+                 <li class="navbar-pillet">
+                   <a href="/jobs" class="navbarText">DEVOPS JOBS</a>
+                </li>
+                <li class="navbar-pillet">
+                  <a href="/zerotohero" class="navbarText">ZERO TO HERO</a>
+               </li>
+              </ul>
+            </div>
+          </div>
+        </nav>
+      </div>
+    </div>
+    <div class="container-fluid" style="overflow-x: auto; min-height: 90vh;" id="121">
+        
+            <div class="container pm-certificate-container">
+                <div class="outer-border"></div>
+                <div class="inner-border"></div>
+                
+                <div class="pm-certificate-border col-xs-12">
+                <div class="row pm-certificate-header">
+                    <div class="pm-certificate-title cursive col-xs-12 text-center cursive">
+                    <h2><b class="cursive" style="font-size: 3rem;">Train With Shubham</b></h2>
+                    </div>
+                </div>
+
+                <div class="row pm-certificate-body" style="margin-top: -30px;">
+                    
+                    <div class="pm-certificate-block">
+                        <div class="col-xs-12">
+                        <div class="row">
+                            <div class="col-xs-2"><!-- LEAVE EMPTY --></div>
+                            <div class="pm-certificate-name underline margin-0 col-xs-8 text-center">
+                            <span class="pm-name-text bold" id="nm1"></span>
+                            </div>
+                            <div class="col-xs-2"><!-- LEAVE EMPTY --></div>
+                        </div>
+                        </div>          
+
+                        <div class="col-xs-12">
+                        <div class="row">
+                            <div class="col-xs-2"><!-- LEAVE EMPTY --></div>
+                            <div class="pm-earned col-xs-8 text-center">
+                            <span class="pm-earned-text padding-0 block cursive">has earned</span>
+                            <span class="pm-credits-text block bold sans" id="t1"></span>
+                            </div>
+                            <div class="col-xs-2"><!-- LEAVE EMPTY --></div>
+                            <div class="col-xs-12"></div>
+                        </div>
+                        </div>
+                        
+                        <div class="col-xs-12">
+                        <div class="row">
+                            <div class="col-xs-2"><!-- LEAVE EMPTY --></div>
+                            <div class="pm-course-title col-xs-8 text-center">
+                            <span class="pm-earned-text block cursive">while completing the training course entitled</span>
+                            </div>
+                            <div class="col-xs-2"><!-- LEAVE EMPTY --></div>
+                        </div>
+                        </div>
+
+                        <div class="col-xs-12">
+                        <div class="row">
+                            <div class="col-xs-2"><!-- LEAVE EMPTY --></div>
+                            <div class="pm-course-title underline col-xs-8 text-center">
+                            <span class="pm-credits-text block bold sans" id="cc"></span>
+                            </div>
+                            <div class="col-xs-2"><!-- LEAVE EMPTY --></div>
+                        </div>
+                        </div>
+                    </div>       
+                    
+                    <div class="col-xs-12">
+                    <div class="row">
+                        <div class="pm-certificate-footer">
+                            <div class="col-xs-4 pm-certified col-xs-4 text-center">
+                            <span class="pm-credits-text block sans">Course Commenced</span>
+                            <span class="pm-empty-space block underline"><b id="stD"></b></span>
+                            </div>
+                            <div class="col-xs-4">
+                            <!-- LEAVE EMPTY -->
+                            </div>
+                            <div class="col-xs-4 pm-certified col-xs-4 text-center">
+                            <span class="pm-credits-text block sans">Course Concluded</span>
+                            <span class="pm-empty-space block underline"><b id="endD"></b></span>
+                            </div>
+                        </div>
+
+                        <div class="text-center pm-certificate-footer" ><p>This is a digitally signed certifice and does not need signature</p></div>
+                        
+                    </div>
+                    </div>
+
+                </div>
+
+                </div>
+            </div>
+            
+    </div>
+  </body>
+
+  <script>
+    param=location.href.split("?")
+    i = (param[1]).split("i=")[1]
+    k=i
+    var x = {
+        "osheen" : {
+            "name" : "Osheen Khare",
+            "title": "Certified DevOps Practitioner",
+            "course" : "DevOps: Zero to Hero [3 Months]",
+            "start" : "1.April.2023",
+            "end" : "30.June.2023"
+        },
+"kNZOzH4": {"name": "Polepalli Munikanth ", "title": "Certified DevOps Practitioner", "course": "DevOps: Zero to Hero [3 Months]", "start": "1.April.2023", "end": "30.June.2023"},
+"0v2FsIK": {"name": "Dheeraj Pilla", "title": "Certified DevOps Practitioner", "course": "DevOps: Zero to Hero [3 Months]", "start": "1.April.2023", "end": "30.June.2023"},
+"5bmkM9W": {"name": "CHARLOTTE NDOFI LABU NCHI ", "title": "Certified DevOps Practitioner", "course": "DevOps: Zero to Hero [3 Months]", "start": "1.April.2023", "end": "30.June.2023"},
+"tlCwrM7": {"name": "Leesa Chaubey", "title": "Certified DevOps Practitioner", "course": "DevOps: Zero to Hero [3 Months]", "start": "1.April.2023", "end": "30.June.2023"},
+"yQWlHkH": {"name": "Ravin Kumar", "title": "Certified DevOps Practitioner", "course": "DevOps: Zero to Hero [3 Months]", "start": "1.April.2023", "end": "30.June.2023"},
+"bL91c4a": {"name": "IMPANA S", "title": "Certified DevOps Practitioner", "course": "DevOps: Zero to Hero [3 Months]", "start": "1.April.2023", "end": "30.June.2023"},
+"ziHMnIV": {"name": "Francisco Jos\u00e9 B. L. Souza", "title": "Certified DevOps Practitioner", "course": "DevOps: Zero to Hero [3 Months]", "start": "1.April.2023", "end": "30.June.2023"},
+"tEoKBNv": {"name": "Amisha Vinit Bhatia", "title": "Certified DevOps Practitioner", "course": "DevOps: Zero to Hero [3 Months]", "start": "1.April.2023", "end": "30.June.2023"},
+"mzl7kIh": {"name": "Chidinma Uju", "title": "Certified DevOps Practitioner", "course": "DevOps: Zero to Hero [3 Months]", "start": "1.April.2023", "end": "30.June.2023"},
+"pfYxecK": {"name": "VINAYKUMAR SRINIVASULU JALAGAM", "title": "Certified DevOps Practitioner", "course": "DevOps: Zero to Hero [3 Months]", "start": "1.April.2023", "end": "30.June.2023"},
+"z9u2OMh": {"name": "K Aruna Kumari", "title": "Certified DevOps Practitioner", "course": "DevOps: Zero to Hero [3 Months]", "start": "1.April.2023", "end": "30.June.2023"},
+"E3ACUk3": {"name": "ARUNKUMAR P U", "title": "Certified DevOps Practitioner", "course": "DevOps: Zero to Hero [3 Months]", "start": "1.April.2023", "end": "30.June.2023"},
+"xdrLvpo": {"name": "Dhwarikanath jha ", "title": "Certified DevOps Practitioner", "course": "DevOps: Zero to Hero [3 Months]", "start": "1.April.2023", "end": "30.June.2023"},
+"YsQ8Rng": {"name": "Faizan Qureshi", "title": "Certified DevOps Practitioner", "course": "DevOps: Zero to Hero [3 Months]", "start": "1.April.2023", "end": "30.June.2023"},
+"bM1fAul": {"name": "Saikat Mukherjee", "title": "Certified DevOps Practitioner", "course": "DevOps: Zero to Hero [3 Months]", "start": "1.April.2023", "end": "30.June.2023"},
+"QeQhm3k": {"name": "INDRAJIT HAZRA", "title": "Certified DevOps Practitioner", "course": "DevOps: Zero to Hero [3 Months]", "start": "1.April.2023", "end": "30.June.2023"},
+"pMGtD9i": {"name": "Sonali Anil Bhoite", "title": "Certified DevOps Practitioner", "course": "DevOps: Zero to Hero [3 Months]", "start": "1.April.2023", "end": "30.June.2023"},
+"BnnfDTS": {"name": "Sheetal Bharat Shelake", "title": "Certified DevOps Practitioner", "course": "DevOps: Zero to Hero [3 Months]", "start": "1.April.2023", "end": "30.June.2023"},
+"9ka1RKn": {"name": "Shreyas Khangan", "title": "Certified DevOps Practitioner", "course": "DevOps: Zero to Hero [3 Months]", "start": "1.April.2023", "end": "30.June.2023"},
+"ex5jGBq": {"name": "Gowsika R", "title": "Certified DevOps Practitioner", "course": "DevOps: Zero to Hero [3 Months]", "start": "1.April.2023", "end": "30.June.2023"},
+"UTktAHI": {"name": "Gourav Dokwal", "title": "Certified DevOps Practitioner", "course": "DevOps: Zero to Hero [3 Months]", "start": "1.April.2023", "end": "30.June.2023"},
+"JyzBWhk": {"name": "Nikita Jaiswal ", "title": "Certified DevOps Practitioner", "course": "DevOps: Zero to Hero [3 Months]", "start": "1.April.2023", "end": "30.June.2023"},
+"UP3526R": {"name": "Prajwal Sidram Zalaki", "title": "Certified DevOps Practitioner", "course": "DevOps: Zero to Hero [3 Months]", "start": "1.April.2023", "end": "30.June.2023"},
+"0ShVu8h": {"name": "ranjith", "title": "Certified DevOps Practitioner", "course": "DevOps: Zero to Hero [3 Months]", "start": "1.April.2023", "end": "30.June.2023"},
+"13p0mFN": {"name": "Aniket Sanjay Vibhute", "title": "Certified DevOps Practitioner", "course": "DevOps: Zero to Hero [3 Months]", "start": "1.April.2023", "end": "30.June.2023"},
+"Tq4tbB8": {"name": "Amit Gondkar", "title": "Certified DevOps Practitioner", "course": "DevOps: Zero to Hero [3 Months]", "start": "1.April.2023", "end": "30.June.2023"},
+"Ko6dXFg": {"name": "Sarvakota Chaitanya", "title": "Certified DevOps Practitioner", "course": "DevOps: Zero to Hero [3 Months]", "start": "1.April.2023", "end": "30.June.2023"},
+"puENBMb": {"name": "Arnav Singh", "title": "Certified DevOps Practitioner", "course": "DevOps: Zero to Hero [3 Months]", "start": "1.April.2023", "end": "30.June.2023"},
+"ztWdwnC": {"name": "Abhisek Moharana", "title": "Certified DevOps Practitioner", "course": "DevOps: Zero to Hero [3 Months]", "start": "1.April.2023", "end": "30.June.2023"},
+"2CCmbEL": {"name": "SRINIDHI N.K", "title": "Certified DevOps Practitioner", "course": "DevOps: Zero to Hero [3 Months]", "start": "1.April.2023", "end": "30.June.2023"},
+"meEHqkK": {"name": "Deepika Pinjarla", "title": "Certified DevOps Practitioner", "course": "DevOps: Zero to Hero [3 Months]", "start": "1.April.2023", "end": "30.June.2023"},
+"0zIYu2g": {"name": "Dhwarikanath jha ", "title": "Certified DevOps Practitioner", "course": "DevOps: Zero to Hero [3 Months]", "start": "1.April.2023", "end": "30.June.2023"},
+"24b4qi5": {"name": "Shifa Syed ", "title": "Certified DevOps Practitioner", "course": "DevOps: Zero to Hero [3 Months]", "start": "1.April.2023", "end": "30.June.2023"},
+"8hsFvG2": {"name": "Rohit Johari ", "title": "Certified DevOps Practitioner", "course": "DevOps: Zero to Hero [3 Months]", "start": "1.April.2023", "end": "30.June.2023"},
+"c4XUjaw": {"name": "Manish Panwar", "title": "Certified DevOps Practitioner", "course": "DevOps: Zero to Hero [3 Months]", "start": "1.April.2023", "end": "30.June.2023"},
+"5PwqESB": {"name": "Ajay Chandrakant Surve", "title": "Certified DevOps Practitioner", "course": "DevOps: Zero to Hero [3 Months]", "start": "1.April.2023", "end": "30.June.2023"},
+"qXtcvZc": {"name": "Mohit Thakur", "title": "Certified DevOps Practitioner", "course": "DevOps: Zero to Hero [3 Months]", "start": "1.April.2023", "end": "30.June.2023"},
+"cYM6CEe": {"name": "Akanksha Audumbar Patil", "title": "Certified DevOps Practitioner", "course": "DevOps: Zero to Hero [3 Months]", "start": "1.April.2023", "end": "30.June.2023"},
+"0IW1GfJ": {"name": "Narendra N", "title": "Certified DevOps Practitioner", "course": "DevOps: Zero to Hero [3 Months]", "start": "1.April.2023", "end": "30.June.2023"},
+"Mc8bBRD": {"name": "Ajay Patel", "title": "Certified DevOps Practitioner", "course": "DevOps: Zero to Hero [3 Months]", "start": "1.April.2023", "end": "30.June.2023"},
+"xMP6mYf": {"name": "S Prashanth", "title": "Certified DevOps Practitioner", "course": "DevOps: Zero to Hero [3 Months]", "start": "1.April.2023", "end": "30.June.2023"},
+"qClIzQi": {"name": "OLAWUNMI OGUNSEYE", "title": "Certified DevOps Practitioner", "course": "DevOps: Zero to Hero [3 Months]", "start": "1.April.2023", "end": "30.June.2023"},
+"U9M2VxV": {"name": "Sangeeta  Shinde", "title": "Certified DevOps Practitioner", "course": "DevOps: Zero to Hero [3 Months]", "start": "1.April.2023", "end": "30.June.2023"},
+"FK1zO8T": {"name": "Vishweshwaran M J", "title": "Certified DevOps Practitioner", "course": "DevOps: Zero to Hero [3 Months]", "start": "1.April.2023", "end": "30.June.2023"},
+"t8yER0P": {"name": "Devesh singh choudhary", "title": "Certified DevOps Practitioner", "course": "DevOps: Zero to Hero [3 Months]", "start": "1.April.2023", "end": "30.June.2023"},
+"GpFT4or": {"name": "Saad Khan", "title": "Certified DevOps Practitioner", "course": "DevOps: Zero to Hero [3 Months]", "start": "1.April.2023", "end": "30.June.2023"},
+"QuOnhc8": {"name": "Priya Zalaki", "title": "Certified DevOps Practitioner", "course": "DevOps: Zero to Hero [3 Months]", "start": "1.April.2023", "end": "30.June.2023"},
+"clHHHOj": {"name": "Amir Subhani", "title": "Certified DevOps Practitioner", "course": "DevOps: Zero to Hero [3 Months]", "start": "1.April.2023", "end": "30.June.2023"},
+"ni2QsOa": {"name": "Prasoon Gupta", "title": "Certified DevOps Practitioner", "course": "DevOps: Zero to Hero [3 Months]", "start": "1.April.2023", "end": "30.June.2023"},
+"jxFyP4m": {"name": "Kalyan Krishna P V S", "title": "Certified DevOps Practitioner", "course": "DevOps: Zero to Hero [3 Months]", "start": "1.April.2023", "end": "30.June.2023"},
+"4X8Tg6I": {"name": "Satyam More", "title": "Certified DevOps Practitioner", "course": "DevOps: Zero to Hero [3 Months]", "start": "1.April.2023", "end": "30.June.2023"},
+"AbH58hA": {"name": "Chaithra H R ", "title": "Certified DevOps Practitioner", "course": "DevOps: Zero to Hero [3 Months]", "start": "1.April.2023", "end": "30.June.2023"},
+"6Azsv69": {"name": "AYAN DUTTA", "title": "Certified DevOps Practitioner", "course": "DevOps: Zero to Hero [3 Months]", "start": "1.April.2023", "end": "30.June.2023"},
+"dvqVRFc": {"name": "Pooja Himmat Vibhute", "title": "Certified DevOps Practitioner", "course": "DevOps: Zero to Hero [3 Months]", "start": "1.April.2023", "end": "30.June.2023"},
+"Ph7AAQG": {"name": "Atiq Khan", "title": "Certified DevOps Practitioner", "course": "DevOps: Zero to Hero [3 Months]", "start": "1.April.2023", "end": "30.June.2023"},
+"FpgYXAN": {"name": "Barsarani Jena", "title": "Certified DevOps Practitioner", "course": "DevOps: Zero to Hero [3 Months]", "start": "1.April.2023", "end": "30.June.2023"},
+"yNOo6bw": {"name": "Parijat Ratnakar Ambilwade", "title": "Certified DevOps Practitioner", "course": "DevOps: Zero to Hero [3 Months]", "start": "1.April.2023", "end": "30.June.2023"},
+"PnKciy6": {"name": "Esha Prasad K U", "title": "Certified DevOps Practitioner", "course": "DevOps: Zero to Hero [3 Months]", "start": "1.April.2023", "end": "30.June.2023"},
+"ixGl0Pd": {"name": "Ramya G M", "title": "Certified DevOps Practitioner", "course": "DevOps: Zero to Hero [3 Months]", "start": "1.April.2023", "end": "30.June.2023"},
+"va6UJSs": {"name": "Syed Fareed Ahmed", "title": "Certified DevOps Practitioner", "course": "DevOps: Zero to Hero [3 Months]", "start": "1.April.2023", "end": "30.June.2023"},
+"heDIRZ0": {"name": "Ajinkya Jirgale", "title": "Certified DevOps Practitioner", "course": "DevOps: Zero to Hero [3 Months]", "start": "1.April.2023", "end": "30.June.2023"},
+"T48d6Kl": {"name": "Gaurav Ji Srivastava", "title": "Certified DevOps Practitioner", "course": "DevOps: Zero to Hero [3 Months]", "start": "1.April.2023", "end": "30.June.2023"},
+"JGuejOe": {"name": "Ram Prasath ", "title": "Certified DevOps Practitioner", "course": "DevOps: Zero to Hero [3 Months]", "start": "1.April.2023", "end": "30.June.2023"},
+"yJpZeBB": {"name": "Naznin Parveen", "title": "Certified DevOps Practitioner", "course": "DevOps: Zero to Hero [3 Months]", "start": "1.April.2023", "end": "30.June.2023"},
+"MFNcRDd": {"name": "Vishal Singh", "title": "Certified DevOps Practitioner", "course": "DevOps: Zero to Hero [3 Months]", "start": "1.April.2023", "end": "30.June.2023"},
+"F1OgdfF": {"name": "Sneha K S", "title": "Certified DevOps Practitioner", "course": "DevOps: Zero to Hero [3 Months]", "start": "1.April.2023", "end": "30.June.2023"},
+"wHomxSo": {"name": "Tejashree Salvi", "title": "Certified DevOps Practitioner", "course": "DevOps: Zero to Hero [3 Months]", "start": "1.April.2023", "end": "30.June.2023"},
+"rViwpIY": {"name": "Srinidhi N.K", "title": "Certified DevOps Practitioner", "course": "DevOps: Zero to Hero [3 Months]", "start": "1.April.2023", "end": "30.June.2023"},
+"n3x0gJM": {"name": "Anirban Dey", "title": "Certified DevOps Practitioner", "course": "DevOps: Zero to Hero [3 Months]", "start": "1.April.2023", "end": "30.June.2023"},
+"1LmLpU8": {"name": "Anthony Williams", "title": "Certified DevOps Practitioner", "course": "DevOps: Zero to Hero [3 Months]", "start": "1.April.2023", "end": "30.June.2023"},
+"anmiibP": {"name": "Neha Prakash Rathod", "title": "Certified DevOps Practitioner", "course": "DevOps: Zero to Hero [3 Months]", "start": "1.April.2023", "end": "30.June.2023"},
+"OU54IdI": {"name": "Shubham Londhe", "title": "Certified DevOps Practitioner", "course": "DevOps: Zero to Hero [3 Months]", "start": "1.April.2023", "end": "30.June.2023"},
+"aF677Ht": {"name": "Kumar Shanu", "title": "Certified DevOps Practitioner", "course": "DevOps: Zero to Hero [3 Months]", "start": "1.April.2023", "end": "30.June.2023"},
+    }
+
+    if(!x.hasOwnProperty(i)){
+        $('#121').html('<h3>CERTIFICATE INVALID</h3>');
+    }
+
+    $('#endD').text(x[k].end);
+    $('#stD').text(x[k].start);
+    $('#cc').text(x[k].course);
+    $('#t1').text(x[k].title);
+    $('#nm1').text(x[k].name);
+  </script>
+
+
+</html>
