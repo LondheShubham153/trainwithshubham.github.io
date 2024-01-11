@@ -1,7 +1,84 @@
 const jobList = [
 
+
 	
 	
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "Careernet",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:9,
+      applyURL: "https://careernet.in/career-transitions/",
+      dateUpdated: "12/Jan/2024"
+    },
+	
+	{
+      jobTitle: "Software Consultant - (SRE/Devops)",
+      companyName: "PTC",
+      location: "Anywhere",
+      yearsOfExperienceRequired:2.5,
+      applyURL: "https://careers.ptc.com/careers",
+      dateUpdated: "12/Jan/2024"
+    },
+	{
+      jobTitle:"DevOps",
+      companyName: "Calsoft Inc.",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://www.calsoft.com/company/careers/",
+      dateUpdated: "12/Jan/2024"
+    },
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "OMP",
+      location: "Mumbai, Maharashtra",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://careers.omp.com/jobs?locations=IN-Mumbai",
+      dateUpdated: "12/Jan/2024"
+    },
+	{
+      jobTitle:"Cloud Platform Engineer",
+      companyName: "mindcurv",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:1,
+      applyURL: "https://mindcurv.applytojob.com/apply/rvChzjj4ZL/Cloud-Platform-Engineer-mfd?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      dateUpdated: "12/Dec/2023"
+    },
+	
+	{
+      jobTitle: "Salesforce-Consumer Goods Cloud",
+      companyName: "KVP Business Solutions",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://kvpcorp.zohorecruit.in/jobs/Careers",
+      dateUpdated: "12/Jan/2024"
+    },
+	{
+      jobTitle: "Python Developer",
+      companyName: "VARITE INC",
+      location: "Mumbai, Maharashtra",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://www.varite.com/careers/",
+      dateUpdated: "12/Jan/2024"
+    },
+	
+	
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "amdocs",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:5,
+      applyURL: "https://newvision-software.com/careers/",
+      dateUpdated: "12/Jan/2024"
+    },
+	{
+      jobTitle: "Python Developer",
+      companyName: "Vega Intellisoft",
+      location: "Mumbai, Maharashtra",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://vegaintellisoft.com/career/",
+      dateUpdated: "12/Jan/2024"
+    },
 	{
       jobTitle: "Sr DevOps Engineer",
       companyName: "Varian",
