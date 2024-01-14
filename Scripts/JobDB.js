@@ -1,9 +1,75 @@
 const jobList = [
 
-
+    {
+      jobTitle: "Cloud Computing Associate",
+      companyName: "ASCP GPUONCLOUD Private Limited",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://internshala.com/job/detail/cloud-computing-associate-fresher-jobs-in-pune-at-ascp-gpuoncloud-private-limited1704091804",
+      dateUpdated: "15/Jan/2024"
+    },
+	
+	{
+      jobTitle: "Cloud Computing",
+      companyName: "Quantasis Private Limited",
+      location: "Anywhere",
+      yearsOfExperienceRequired:0.2,
+      applyURL: "https://quantasis.com/careers/all/",
+      dateUpdated: "15/Jan/2024"
+    },
+	{
+      jobTitle:"Cloud Support Associate",
+      companyName: "Amazon",
+      location: "INDIA",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://jobsnet.in/amazon-web-services-hiring-freshers-as-cloud-support-associate/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      dateUpdated: "15/Jan/2024"
+    },
+	
+	{
+      jobTitle:"Cloud Jobs for Beginners",
+      companyName: "Yash Technology",
+      location: "Indore, Madhya Pradesh",
+      yearsOfExperienceRequired:0.2,
+      applyURL: "https://geeksgod.com/yash-technology-recruitment-2023-cloud-jobs-for-beginners/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      dateUpdated: "15/Jan/2024"
+    },
+	
+	{
+      jobTitle: "DevOps Engineer (0–1-year exp)",
+      companyName: "Mundrisoft Solutions",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://www.simplyhired.co.in/job/PlQ93BAQIKiCyVu2lMeCCgt19X_cFm37O5J5bsTlx6P3-pfHECTxKA?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      dateUpdated: "15/Jan/2024"
+    },
+	{
+      jobTitle: "Python-AWS Trainee",
+      companyName: "Futops",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://www.djobbuzz.com/home/viewjob/8499/futops-is-hiring-for-freshers-as-python-aws-trainee?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      dateUpdated: "15/Jan/2024"
+    },
 	
 	
 	{
+      jobTitle: "DevOps Engineer",
+      companyName: "amdocs",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:5,
+      applyURL: "https://newvision-software.com/careers/",
+      dateUpdated: "12/Jan/2024"
+    },
+	{
+      jobTitle: "AWS Cloud Engineer-Intern",
+      companyName: "Percept Infosystem",
+      location: "Nagpur, Maharashtra",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://www.freshersworld.com/jobs/hiring-for-aws-cloud-engineer-intern-jobs-opening-in-percept-infosystem-at-nagpur-others-nagpur-2140337?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      dateUpdated: "15/Jan/2024"
+    },
+     {
       jobTitle: "DevOps Engineer",
       companyName: "Careernet",
       location: "Pune, Maharashtra",
