@@ -1,6 +1,97 @@
 const jobList = [
 
+
+	
+	
+	{
+      jobTitle: "Associate Senior DevOps Engineer",
+      companyName: "Global Payments",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:8,
+      applyURL: "https://jobs.globalpayments.com/en/jobs/",
+      dateUpdated: "17/Jan/2024"
+    },
+	
+	{
+      jobTitle: "Technical Lead-Cloud DevOps",
+      companyName: "PTC",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:0.2,
+      applyURL: "https://www.ptc.com/en/careers",
+      dateUpdated: "17/Jan/2024"
+    },
+	{
+      jobTitle:"DevOps Architect",
+      companyName: "Tata Consultancy Services",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:8,
+      applyURL: "https://www.tcs.com/careers",
+      dateUpdated: "17/Jan/2024"
+    },
+	
+	{
+      jobTitle:"DevOps",
+      companyName: "Mastek",
+      location: "Indore, Madhya Pradesh",
+      yearsOfExperienceRequired:4,
+      applyURL: "https://www.mastek.com/careers/",
+      dateUpdated: "17/Jan/2024"
+    },
+	
+	{
+      jobTitle: "Sr. DevOps Engineer",
+      companyName: "Nielsen",
+      location: "Indi, Karnataka",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://www.nielsen.com/careers/",
+      dateUpdated: "17/Jan/2024"
+    },
+	{
+      jobTitle: "Devops Engineer",
+      companyName: "Yappes",
+      location: "Karnataka",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://yappes.com/career/",
+      dateUpdated: "17/Jan/2024"
+    },
+	
+	
+	{
+      jobTitle: "Senior Manager- DevOps",
+      companyName: "Talentica Software India",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:5,
+      applyURL: "https://www.talentica.com/careers/",
+      dateUpdated: "17/Jan/2024"
+    },
+	{
+      jobTitle: "Senior DevOps Engineer",
+      companyName: "NewVision Software",
+      location: "Nagpur, Maharashtra",
+      yearsOfExperienceRequired:6,
+      applyURL: "https://newvision-software.com/careers/",
+      dateUpdated: "17/Jan/2024"
+    },
+
     {
+      jobTitle: "DevOps",
+      companyName: "Wipro",
+      location: "Karnataka",
+      yearsOfExperienceRequired:6,
+      applyURL: "https://careers.wipro.com/careers-home/",
+      dateUpdated: "17/Jan/2024"
+    },
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "A-1 Technology Pvt. Ltd",
+      location: "Maharashtra",
+      yearsOfExperienceRequired:6,
+      applyURL: "https://www.a1technology.com/careers.aspx",
+      dateUpdated: "17/Jan/2024"
+    },
+
+	
+   {
       jobTitle: "Cloud Computing Associate",
       companyName: "ASCP GPUONCLOUD Private Limited",
       location: "Pune, Maharashtra",
