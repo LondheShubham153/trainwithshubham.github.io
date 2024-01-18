@@ -1,8 +1,77 @@
 const jobList = [
 
+	
+	
+	{
+      jobTitle: "Azure Devops Engineer",
+      companyName: "SwiftWIN | A Concord Company",
+      location: "Anywhere",
+      yearsOfExperienceRequired:8,
+      applyURL: "https://www.swiftwininc.com/career/",
+      dateUpdated: "19/Jan/2024"
+    },
+	
+	{
+      jobTitle: "AWS - Cloud Migration Engineer / Consultant",
+      companyName: "Trianz",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://www.trianz.com/careers",
+      dateUpdated: "19/Jan/2024"
+    },
+	{
+      jobTitle:"AND AWS",
+      companyName: "Accelya Group",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://w3.accelya.com/careers/",
+      dateUpdated: "19/Jan/2024"
+    },
+	
+	{
+      jobTitle:"DevOps Engineer/Consultant - AWS/Linux OS",
+      companyName: "Elixia Tech Solutions",
+      location: "Indore, Madhya Pradesh",
+      yearsOfExperienceRequired:3.5,
+      applyURL: "https://elixia.tech/career/#",
+      dateUpdated: "19/Jan/2024"
+    },
+	
+	{
+      jobTitle: "DevOps AWS Engineer",
+      companyName: "Uplers",
+      location: "Indi, Karnataka",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://www.uplers.com/careers/",
+      dateUpdated: "19/Jan/2024"
+    },
+	{
+      jobTitle: "AWS Engineer (Pyspark MUST)",
+      companyName: "Kiash Solutions LLP",
+      location: "Karnataka",
+      yearsOfExperienceRequired:4,
+      applyURL: "https://www.kiashsolutions.com/current-opening.php",
+      dateUpdated: "19/Jan/2024"
+    },
+	
+	
+	{
+      jobTitle: "AWS Engineer Consultant",
+      companyName: "Sciens Technologies",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:4,
+      applyURL: "https://scienstechnologies.com/careers/",
+      dateUpdated: "19/Jan/2024"
+    },
+	{
+      jobTitle: "Chennai, Tamil Nadu",
+      companyName: "Presidio",
+      location: "Nagpur, Maharashtra",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://www.presidio.com/careers/",
+      dateUpdated: "19/Jan/2024"
+    },
 
-	
-	
 	{
       jobTitle: "Associate Senior DevOps Engineer",
       companyName: "Global Payments",
