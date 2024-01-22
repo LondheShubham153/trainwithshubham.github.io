@@ -6,7 +6,7 @@ const jobList = [
       location: "Pune, Maharashtra",
       yearsOfExperienceRequired:3,
       applyURL: "https://www.tcs.com/careers",
-      dateUpdated: "22/Jan/2024"
+      dateUpdated: "23/Jan/2024"
     },
 	
 	{
@@ -15,7 +15,7 @@ const jobList = [
       location: "Pune, Maharashtra",
       yearsOfExperienceRequired:2,
       applyURL: "https://careers.fisglobal.com/us/en",
-      dateUpdated: "22/Jan/2024"
+      dateUpdated: "23/Jan/2024"
     },
 	{
       jobTitle:"AND AWS",
@@ -23,7 +23,7 @@ const jobList = [
       location: "Pune, Maharashtra",
       yearsOfExperienceRequired:3,
       applyURL: "https://cloudsmartz.com/careers/",
-      dateUpdated: "22/Jan/2024"
+      dateUpdated: "23/Jan/2024"
     },
 	
 	{
@@ -32,7 +32,7 @@ const jobList = [
       location: "Indore, Madhya Pradesh",
       yearsOfExperienceRequired:3.5,
       applyURL: "https://www.tatatechnologies.com/in/mid-career/",
-      dateUpdated: "22/Jan/2024"
+      dateUpdated: "23/Jan/2024"
     },
 	
 	{
@@ -41,7 +41,7 @@ const jobList = [
       location: "Mumbai, Maharashtra",
       yearsOfExperienceRequired:3,
       applyURL: "https://www.necsws.com/careers/",
-      dateUpdated: "22/Jan/2024"
+      dateUpdated: "23/Jan/2024"
     },
 	{
       jobTitle: "Python AWS Engineer",
@@ -49,7 +49,7 @@ const jobList = [
       location: "Pune, Maharashtra",
       yearsOfExperienceRequired:5,
       applyURL: "https://www.virtusa.com/careers",
-      dateUpdated: "22/Jan/2024"
+      dateUpdated: "23/Jan/2024"
     },
 	
 	
@@ -59,7 +59,7 @@ const jobList = [
       location: "Bengaluru, Karnataka",
       yearsOfExperienceRequired:0.2,
       applyURL: "https://www.invisia.us/career/",
-      dateUpdated: "22/Jan/2024"
+      dateUpdated: "23/Jan/2024"
     },
 	{
       jobTitle: "AWS/Cloud",
@@ -67,7 +67,7 @@ const jobList = [
       location: "Hyderabad, Telangana",
       yearsOfExperienceRequired:6,
       applyURL: "https://www.seanergydigital.com/Careers.html",
-      dateUpdated: "22/Jan/2024"
+      dateUpdated: "23/Jan/2024"
     },
 
 {
@@ -76,7 +76,7 @@ const jobList = [
       location: "Chennai, Tamil Nadu",
       yearsOfExperienceRequired:4,
       applyURL: "https://www.kiashsolutions.com/current-opening.php",
-      dateUpdated: "22/Jan/2024"
+      dateUpdated: "23/Jan/2024"
     },
 	
 	{
@@ -85,7 +85,7 @@ const jobList = [
       location: "Hyderabad, Telangana",
       yearsOfExperienceRequired:4,
       applyURL: "https://www.yash.com/about-us/career/",
-      dateUpdated: "22/Jan/2024"
+      dateUpdated: "23/Jan/2024"
     },
 
       {
