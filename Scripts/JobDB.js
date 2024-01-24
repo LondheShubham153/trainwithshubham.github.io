@@ -1,5 +1,96 @@
 const jobList = [
 
+
+	
+	
+	{
+      jobTitle: "AWS Devops",
+      companyName: "LTIMindtree Limited",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:7,
+      applyURL: "https://www.ltimindtree.com/careers/",
+      dateUpdated: "25/Jan/2024"
+    },
+	
+	{
+      jobTitle: "DevOps/SRE Engineer",
+      companyName: "Deqode Solutions",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:2.5,
+      applyURL: "https://deqode.com/careers/",
+      dateUpdated: "25/Jan/2024"
+    },
+	{
+      jobTitle:"Cloud Operations Engineer",
+      companyName: "CloudSmartz",
+      location: "Searce Technologies",
+      yearsOfExperienceRequired:1.4,
+      applyURL: "https://www.handigital.com/jobs/",
+      dateUpdated: "25/Jan/2024"
+    },
+	
+	{
+      jobTitle:"Cloud Security Engineer",
+      companyName: "CRED",
+      location: "Indore, Madhya Pradesh",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://careers.cred.club/",
+      dateUpdated: "25/Jan/2024"
+    },
+	
+	{
+      jobTitle: "AWS Cloud Engineer",
+      companyName: "Airbus",
+      location: "Mumbai, Maharashtra",
+      yearsOfExperienceRequired:4,
+      applyURL: "https://www.airbus.com/en/careers",
+      dateUpdated: "25/Jan/2024"
+    },
+	{
+      jobTitle: "Python Developer",
+      companyName: "Infogain",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:5,
+      applyURL: "https://www.infogain.com/careers/",
+      dateUpdated: "25/Jan/2024"
+    },
+	
+	
+	{
+      jobTitle: "Remote Python Developer",
+      companyName: "Flexiple",
+      location: "Anywhere",
+      yearsOfExperienceRequired:1,
+      applyURL: "https://careers.flexiple.com/jobs",
+      dateUpdated: "25/Jan/2024"
+    },
+	{
+      jobTitle: "Python Developer",
+      companyName: "InfraCloud Technologies",
+      location: "Anywhere",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://www.infracloud.io/careers/",
+      dateUpdated: "25/Jan/2024"
+    },
+
+{
+      jobTitle: "AWS Engineer",
+      companyName: "NEOTECH Solutions",
+      location: "Anywhere",
+      yearsOfExperienceRequired:4,
+      applyURL: "https://www.neotechit.in/career.html",
+      dateUpdated: "25/Jan/2024"
+    },
+	
+	{
+      jobTitle: "Python Developer",
+      companyName: "AptEdge",
+      location: "Hyderabad, Telangana",
+      yearsOfExperienceRequired:4,
+      applyURL: "https://www.aptedge.io/careers/",
+      dateUpdated: "25/Jan/2024"
+    },
+
     {
       jobTitle: "Software Engineer Senior - Devops",
       companyName: "FIS Global",
