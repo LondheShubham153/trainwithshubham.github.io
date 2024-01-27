@@ -1,9 +1,96 @@
 const jobList = [
 
-
 	
 	
 	{
+      jobTitle: "Devops-SRE Engineer",
+      companyName: "Synechron",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:1,
+      applyURL: "https://www.synechron.com/en-in/careers",
+      dateUpdated: "27/Jan/2024"
+    },
+	
+	{
+      jobTitle: "Associate - DevOps Batch Support",
+      companyName: "Nuveen",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://careers.tiaa.org/nuveen/global/en",
+      dateUpdated: "27/Jan/2024"
+    },
+	{
+      jobTitle:"Cloud DevOps Engineer",
+      companyName: "TERADATA INDIA PVT LTD",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://careers.teradata.com/",
+      dateUpdated: "27/Jan/2024"
+    },
+	
+	{
+      jobTitle:"Senior AWS DevOps",
+      companyName: "Tata Technologies",
+      location: "Maharashtra",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://www.tatatechnologies.com/in/careers/",
+      dateUpdated: "27/Jan/2024"
+    },
+	
+	{
+      jobTitle: "DevOps",
+      companyName: "IBM",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:1,
+      applyURL: "https://www.ibm.com/in-en/careers",
+      dateUpdated: "27/Jan/2024"
+    },
+	{
+      jobTitle: "DevOps Engineer 1",
+      companyName: "CloudSmartz",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://cloudsmartz.com/careers/",
+      dateUpdated: "27/Jan/2024"
+    },
+	
+	
+	{
+      jobTitle: "DevOps Intern",
+      companyName: "Bynry Inc",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:0.2,
+      applyURL: "https://www.bynry.com/careers",
+      dateUpdated: "27/Jan/2024"
+    },
+	{
+      jobTitle: "DevOps Intern",
+      companyName: "Hexanika",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:2.3,
+      applyURL: "https://hexanika.com/careers/",
+      dateUpdated: "27/Jan/2024"
+    },
+
+{
+      jobTitle: "Firmware DevOps Intern",
+      companyName: "Marvell Technology",
+      location: "Anywhere",
+      yearsOfExperienceRequired:4,
+      applyURL: "https://www.marvell.com/company/careers.html",
+      dateUpdated: "27/Jan/2024"
+    },
+	
+	{
+      jobTitle: "AWS Cloud Developer",
+      companyName: "Cloudtech",
+      location: "Anywhere",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://www.cloudtech.com/careers",
+      dateUpdated: "27/Jan/2024"
+    },
+
+    {
       jobTitle: "AWS Devops",
       companyName: "LTIMindtree Limited",
       location: "Pune, Maharashtra",
