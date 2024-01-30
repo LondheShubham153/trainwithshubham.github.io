@@ -1,8 +1,96 @@
 const jobList = [
 
+
 	
 	
 	{
+      jobTitle: "Devops-SRE Engineer",
+      companyName: "Synechron",
+      location: "Pune, Maharashtr",
+      yearsOfExperienceRequired:12,
+      applyURL: "https://www.synechron.com/careers/jobs/pune",
+      dateUpdated: "30/Jan/2024"
+    },
+	
+	{
+      jobTitle: "Sr DevOps Engineer",
+      companyName: "Siemens Corp",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:5,
+      applyURL: "https://www.siemens.com/in/en/company/jobs.html",
+      dateUpdated: "30/Jan/2024"
+    },
+	{
+      jobTitle:"Sr Devops Engineer",
+      companyName: "SwiftWIN | A Concord Company",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://www.swiftwininc.com/career/",
+      dateUpdated: "30/Jan/2024"
+    },
+	
+	{
+      jobTitle:"DevOps Engineer",
+      companyName: "Luxoft",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:1,
+      applyURL: "https://career.luxoft.com/job-opportunities/?keyword=&country%5B%5D=anywhere&set_filter=Y",
+      dateUpdated: "30/Jan/2024"
+    },
+	
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "Hilti Belux SA",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:5,
+      applyURL: "https://careers.hilti.group/en/jobs/",
+      dateUpdated: "30/Jan/2024"
+    },
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "Intellect Design Arena Ltd",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:1,
+      applyURL: "https://www.intellectdesign.com/careers/",
+      dateUpdated: "30/Jan/2024"
+    },
+	
+	
+	{
+      jobTitle: "DevOps Intern",
+      companyName: "Ivitesse",
+      location: "Maharashtra",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://ivitesse.com/careers.php",
+      dateUpdated: "30/Jan/2024"
+    },
+	{
+      jobTitle: "Devops Engineer",
+      companyName: "Cognizant",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://careers.cognizant.com/global/en",
+      dateUpdated: "30/Jan/2024"
+    },
+
+{
+      jobTitle: "Firmware DevOps Intern",
+      companyName: "Coforge",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:6,
+      applyURL: "https://careers.coforge.com/#!/",
+      dateUpdated: "30/Jan/2024"
+    },
+	
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "ATMECS Technologies Pvt., Ltd.",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://atmecs.com/atmecs-job/",
+      dateUpdated: "30/Jan/2024"
+    },
+         {
       jobTitle: "Devops-SRE Engineer",
       companyName: "Synechron",
       location: "Pune, Maharashtra",
