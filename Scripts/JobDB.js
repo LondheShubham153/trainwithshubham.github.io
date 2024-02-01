@@ -4,6 +4,95 @@ const jobList = [
 	
 	
 	{
+      jobTitle: "Engineer, Cybersecurity - Cloud security",
+      companyName: "NielsenIQ",
+      location: "Pune, Maharashtr",
+      yearsOfExperienceRequired:1,
+      applyURL: "https://nielseniq.com/global/en/careers/",
+      dateUpdated: "02/FEB/2024"
+    },
+	
+	{
+      jobTitle: "AWS Cloud Engineer",
+      companyName: "Iron Systems, Inc",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:1.3,
+      applyURL: "https://www.ironsystems.com/company/career-opportunities",
+      dateUpdated: "02/FEB/2024"
+    },
+	{
+      jobTitle:"Cloud Engineer",
+      companyName: "AskSid",
+      location: "Bengaluru, Karnataka",
+      yearsOfExperienceRequired:4,
+      applyURL: "https://www.gupshup.io/about/careers",
+      dateUpdated: "02/FEB/2024"
+    },
+	
+	{
+      jobTitle:"Cloud Engineering",
+      companyName: "deloitte",
+      location: "Bengaluru, Karnataka",
+      yearsOfExperienceRequired:7,
+      applyURL: "https://www2.deloitte.com/us/en/careers/careers.html",
+      dateUpdated: "02/FEB/2024"
+    },
+	
+	{
+      jobTitle: "Sr Cloud Network Engineer",
+      companyName: "Taurus Hard Soft Solutions Pvt Ltd",
+      location: "India",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://www.taurusonline.net/careers.html",
+      dateUpdated: "02/FEB/2024"
+    },
+	{
+      jobTitle: "AWS DevOps Engineer",
+      companyName: "Harns Technologies PVT LTD",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:4,
+      applyURL: "https://harnstech.com/Careers",
+      dateUpdated: "02/FEB/2024"
+    },
+	
+	
+	{
+      jobTitle: "Cloud Engineer",
+      companyName: "NucleusTeq",
+      location: "Karnataka",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://nucleusteq.com/careers/",
+      dateUpdated: "02/FEB/2024"
+    },
+	{
+      jobTitle: "Cloud Solution Engineer",
+      companyName: "Swiss Re",
+      location: "Hyderabad, Telangana",
+      yearsOfExperienceRequired:5,
+      applyURL: "https://www.swissre.com/careers.html",
+      dateUpdated: "02/FEB/2024"
+    },
+
+{
+      jobTitle: "Remote Freelance Cloud Engineer Job",
+      companyName: "Flexiple",
+      location: "Anywhere",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://careers.flexiple.com/jobs",
+      dateUpdated: "02/FEB/2024"
+    },
+	
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "Verterim",
+      location: "Anywhere",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://verterim.com/company/careers",
+      dateUpdated: "02/FEB/2024"
+    },
+
+
+     {
       jobTitle: "Devops-SRE Engineer",
       companyName: "Synechron",
       location: "Pune, Maharashtr",
