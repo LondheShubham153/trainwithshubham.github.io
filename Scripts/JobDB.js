@@ -1,9 +1,95 @@
 const jobList = [
-
-
 	
 	
 	{
+      jobTitle: "Python Developer Freshers",
+      companyName: "Pinnacle Tech Systems",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:1,
+      applyURL: "https://pinnacleit.in/careers.html",
+      dateUpdated: "05/FEB/2024"
+    },
+	
+	{
+      jobTitle: "Python Developer",
+      companyName: "Heaptrace",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:1.3,
+      applyURL: "https://www.heaptrace.com/career/",
+      dateUpdated: "05/FEB/2024"
+    },
+	{
+      jobTitle:"Cloud Engineer",
+      companyName: "QSP Technologies",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:0.2,
+      applyURL: "https://qspinfotech.com/careers.php",
+      dateUpdated: "05/FEB/2024"
+    },
+	
+	{
+      jobTitle:"AWS Data Engineer",
+      companyName: "Axiom Pursuits",
+      location: "Bengaluru, Karnataka",
+      yearsOfExperienceRequired:5,
+      applyURL: "https://axiompursuits.com/open-jobs/",
+      dateUpdated: "05/FEB/2024"
+    },
+	
+	{
+      jobTitle: "AWS Cloud Engineer",
+      companyName: "nVent",
+      location: "India",
+      yearsOfExperienceRequired:0.4,
+      applyURL: "https://www.nvent.com/en-us/careers",
+      dateUpdated: "05/FEB/2024"
+    },
+	{
+      jobTitle: "AWS Cloud Engineer",
+      companyName: "First Soft Solutions LLC",
+      location: "Chennai, Tamil Nadu",
+      yearsOfExperienceRequired:5,
+      applyURL: "http://www.firstsoftsolutions.net/careers.html",
+      dateUpdated: "05/FEB/2024"
+    },
+	
+	
+	{
+      jobTitle: "Cloud Engineer",
+      companyName: "Mobifly",
+      location: "Gurugram, Haryana",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://mobifly.tech/mobifly-job-opportunities/",
+      dateUpdated: "05/FEB/2024"
+    },
+	{
+      jobTitle: "AWS Data Engineer",
+      companyName: "Signitives",
+      location: "Coimbatore, Tamil Nadu",
+      yearsOfExperienceRequired:4,
+      applyURL: "https://signitives.net/careers.html",
+      dateUpdated: "5/FEB/2024"
+    },
+
+{
+      jobTitle: "Remote Freelance Cloud Engineer Job",
+      companyName: "Apps Associates",
+      location: "Anywhere",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://appsassociates.com/careers/",
+      dateUpdated: "05/FEB/2024"
+    },
+	
+	{
+      jobTitle: "Cloud AWS Engineer",
+      companyName: "Apps Associates",
+      location: "Gurugram, Haryana",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://verterim.com/company/careers",
+      dateUpdated: "05/FEB/2024"
+    },
+
+     {
       jobTitle: "Engineer, Cybersecurity - Cloud security",
       companyName: "NielsenIQ",
       location: "Pune, Maharashtr",
