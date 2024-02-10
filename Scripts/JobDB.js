@@ -1,7 +1,96 @@
 const jobList = [
+
 	
 	
 	{
+      jobTitle: "AWS/Azure",
+      companyName: "Deqode",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:1,
+      applyURL: "https://deqode.com/careers/",
+      dateUpdated: "11/FEB/2024"
+    },
+	
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "Nanostuffs Technologies Pvt. Ltd.",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:5,
+      applyURL: "https://www.nanostuffs.com/career.html",
+      dateUpdated: "11/FEB/2024"
+    },
+	{
+      jobTitle:"DevOps Engineer",
+      companyName: "Intuitive.Cloud",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://intuitive.cloud/careers",
+      dateUpdated: "11/FEB/2024"
+    },
+	
+	{
+      jobTitle:"DevOps Engineer",
+      companyName: "Tata Consultancy Services",
+      location: "Maharashtra",
+      yearsOfExperienceRequired:1.2,
+      applyURL: "https://www.tcs.com/careers",
+      dateUpdated: "11/FEB/2024"
+    },
+	
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "Redrob by McKinley Rice",
+      location: "India",
+      yearsOfExperienceRequired:2.5,
+      applyURL: "https://mckinleyrice.com/careers",
+      dateUpdated: "11/FEB/2024"
+    },
+	{
+      jobTitle: "Devops engineer Lead",
+      companyName: "EMPASYS INFO SOLUTIONS PVT LTD",
+      location: "Hyderabad, Telangana",
+      yearsOfExperienceRequired:8,
+      applyURL: "https://empasysinfo.com/careers/",
+      dateUpdated: "11/FEB/2024"
+    },
+	
+	
+	{
+      jobTitle: "Cloud Engineer",
+      companyName: "Mobifly",
+      location: "DevOps Engineer",
+      yearsOfExperienceRequired:6,
+      applyURL: "https://www.nexthink.com/company/careers",
+      dateUpdated: "11/FEB/2024"
+    },
+	{
+      jobTitle: "Devops Engineer",
+      companyName: "Qrata",
+      location: "New Delhi, Delhi",
+      yearsOfExperienceRequired:2.5,
+      applyURL: "https://www.qrata.co/career.html",
+      dateUpdated: "11/FEB/2024"
+    },
+
+{
+      jobTitle: "Cloud Engineer",
+      companyName: "Flentas Technologies",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://www.flentas.com/career",
+      dateUpdated: "11/FEB/2024"
+    },
+	
+	{
+      jobTitle: "Cloud Application Architect",
+      companyName: "Hexaware Technologies",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:1,
+      applyURL: "https://jobs.hexaware.com/",
+      dateUpdated: "11/FEB/2024"
+    },
+
+      {
       jobTitle: "Python Developer Freshers",
       companyName: "Pinnacle Tech Systems",
       location: "Pune, Maharashtra",
