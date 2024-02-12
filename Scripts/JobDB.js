@@ -3,6 +3,93 @@ const jobList = [
 	
 	
 	{
+      jobTitle: "Azure DevOps Kubernetes Engineer",
+      companyName: "TJC Group",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:4,
+      applyURL: "https://www.tjc-group.com/careers/",
+      dateUpdated: "13/FEB/2024"
+    },
+	
+	{
+      jobTitle: "Lead DevOps Engineer ",
+      companyName: "Velotio Technologies",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:7,
+      applyURL: "https://www.velotio.com/careers",
+      dateUpdated: "13/FEB/2024"
+    },
+	{
+      jobTitle:"Senior DevOps Engineer",
+      companyName: "India Bison",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://indiabison.com/careers/",
+      dateUpdated: "13/FEB/2024"
+    },
+	
+	{
+      jobTitle:"AWS Cloud Devops Engineer",
+      companyName: "Facile Services",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:1.2,
+      applyURL: "https://www.facileserv.com/careers/",
+      dateUpdated: "13/FEB/2024"
+    },
+	
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "RK Infotech",
+      location: "India",
+      yearsOfExperienceRequired:2.5,
+      applyURL: "https://www.rkinfo-tech.com/careers/current-openings/",
+      dateUpdated: "13/FEB/2024"
+    },
+	{
+      jobTitle: "Devops Engineer",
+      companyName: "Qrata",
+      location: "New Delhi, Delhi",
+      yearsOfExperienceRequired:2.5,
+      applyURL: "https://www.qrata.co/career.html",
+      dateUpdated: "13/FEB/2024"
+    },
+	
+	
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "Vayuz Technologis",
+      location: "DevOps Engineer",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://www.vayuz.com/career/",
+      dateUpdated: "13/FEB/2024"
+    },
+	{
+      jobTitle: "Senior DevOps Engineer",
+      companyName: "Target Integration",
+      location: "New Delhi, Delhi",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://targetintegration.com/careers/",
+      dateUpdated: "13/FEB/2024"
+    },
+
+{
+      jobTitle: "Devops Engineer",
+      companyName: "Propel Technology Group",
+      location: "Chennai, Tamil Nadu",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://talent.propelinc.com/jobs/Careers",
+      dateUpdated: "13/FEB/2024"
+    },
+	
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "Carnera Technologies",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:1,
+      applyURL: "https://www.getcarnera.com/jobs",
+      dateUpdated: "13/FEB/2024"
+    },
+      {
       jobTitle: "AWS/Azure",
       companyName: "Deqode",
       location: "Pune, Maharashtra",
