@@ -3,6 +3,85 @@ const jobList = [
 	
 	
 	{
+      jobTitle: "DevOps Engineer - Terraform/Kubernetes",
+      companyName: "Benison Technologies Pvt Ltd (India)",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:8,
+      applyURL: "https://benisontech.com/careers/",
+      dateUpdated: "14/FEB/2024"
+    },
+	
+	{
+      jobTitle: "Senior DevOps Engineer",
+      companyName: "L4B Software",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:5,
+      applyURL: "https://jobs.l4b-software.com/jobs/Careers",
+      dateUpdated: "14/FEB/2024"
+    },
+	{
+      jobTitle:"Senior DevOps Engineer",
+      companyName: "India Bison",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://www.lcx.com/careers/",
+      dateUpdated: "14/FEB/2024"
+    },
+	
+	{
+      jobTitle:"Sr. DevOps Engineer",
+      companyName: "LCX",
+      location: "Haryana",
+      yearsOfExperienceRequired:5,
+      applyURL: "https://www.lcx.com/careers/",
+      dateUpdated: "14/FEB/2024"
+    },
+	
+	{
+      jobTitle: "AWS Engineer",
+      companyName: "Incentius",
+      location: "India",
+      yearsOfExperienceRequired:2.5,
+      applyURL: "https://www.incentius.com/careers/",
+      dateUpdated: "14/FEB/2024"
+    },
+	{
+      jobTitle: "Devops Engineer",
+      companyName: "Qrata",
+      location: "New Delhi, Delhi",
+      yearsOfExperienceRequired:2.5,
+      applyURL: "https://www.qrata.co/career.html",
+      dateUpdated: "14/FEB/2024"
+    },
+	
+	
+	{
+      jobTitle: "Azure DevOps Engineer",
+      companyName: "Pune, Maharashtra",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:1.2,
+      applyURL: "https://msdtech.in/career/",
+      dateUpdated: "14/FEB/2024"
+    },
+	{
+      jobTitle: "Sr Devops Engineer(Azure, devops)",
+      companyName: "Altera Digital Health India",
+      location: "New Delhi, Delhi",
+      yearsOfExperienceRequired:5,
+      applyURL: "https://www.alterahealth.com/careers/",
+      dateUpdated: "14/FEB/2024"
+    },
+
+{
+      jobTitle: "Azure Architect",
+      companyName: "Birlasoft Limited",
+      location: "Chennai, Tamil Nadu",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://www.birlasoft.com/careers",
+      dateUpdated: "14/FEB/2024"
+    },
+	
+	{
       jobTitle: "Azure DevOps Kubernetes Engineer",
       companyName: "TJC Group",
       location: "Pune, Maharashtra",
