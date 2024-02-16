@@ -1,8 +1,85 @@
 const jobList = [
 
+{
+      jobTitle: "DevOps Engineer",
+      companyName: "Amdocs",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://www.amdocs.com/careers/home",
+      dateUpdated: "17/FEB/2024"
+    },
+	
+	{
+      jobTitle: "Junior Azure DevOps Engineer (Pune)",
+      companyName: "LTIMindtree",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://www.ltimindtree.com/careers/",
+      dateUpdated: "17/FEB/2024"
+    },
+	{
+      jobTitle:"DevOps - Developer/Engineer",
+      companyName: "Ciena",
+      location: "Haryana",
+      yearsOfExperienceRequired:1.2,
+      applyURL: "https://careers.ciena.com/us/en",
+      dateUpdated: "17/FEB/2024"
+    },
+	
+	{
+      jobTitle:"SRE - DevOps Engineer",
+      companyName: "ANZ Bank",
+      location: "Bengaluru, Karnataka",
+      yearsOfExperienceRequired:8,
+      applyURL: "https://www.anz.com.au/careers/",
+      dateUpdated: "17/FEB/2024"
+    },
+	
+	{
+      jobTitle: "Devops Engineer",
+      companyName: "Qrata",
+      location: "New Delhi, Delhi",
+      yearsOfExperienceRequired:2.5,
+      applyURL: "https://www.qrata.co/career.html",
+      dateUpdated: "17/FEB/2024"
+    },
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "Intuit",
+      location: "Bengaluru, Karnataka",
+      yearsOfExperienceRequired:2.5,
+      applyURL: "https://www.intuit.com/in/careers/",
+      dateUpdated: "17/FEB/2024"
+    },
 	
 	
 	{
+      jobTitle: "Azure DevOps Engineer",
+      companyName: "Algoleap Technologies",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:1.2,
+      applyURL: "https://www.algoleap.com/careers/",
+      dateUpdated: "17/FEB/2024"
+    },
+	{
+      jobTitle: "Senior Cloud Engineer",
+      companyName: "IDESLABS PRIVATE LIMITED",
+      location: "Bengaluru, Karnataka",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://ideslabs.com/current-openings.php",
+      dateUpdated: "17/FEB/2024"
+    },
+
+{
+      jobTitle: "Google Cloud Engineer",
+      companyName: "PDV Technocrats",
+      location: "India",
+      yearsOfExperienceRequired:0.2,
+      applyURL: "https://anvicybernetics.com/case-studies/",
+      dateUpdated: "17/FEB/2024"
+    },
+	
+     {
       jobTitle: "DevOps Engineer - Terraform/Kubernetes",
       companyName: "Benison Technologies Pvt Ltd (India)",
       location: "Pune, Maharashtra",
