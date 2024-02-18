@@ -1,6 +1,102 @@
 const jobList = [
+	
+	
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "Zensar Technologies",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:5,
+      applyURL: "https://www.zensar.com/careers/",
+      dateUpdated: "19/FEB/2024"
+    },
+	
+	{
+      jobTitle: "Python Developer - MySQL/ORM",
+      companyName: "ZettaMine Labs Pvt. Ltd.",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:4,
+      applyURL: "https://www.zettamine.com/careers/",
+      dateUpdated: "19/FEB/2024"
+    },
+	{
+      jobTitle:"Python Developer",
+      companyName: "Innover Infotech",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://www.innoverinfotech.com/careers",
+      dateUpdated: "19/FEB/2024"
+    },
+	
+	{
+      jobTitle:"Automation Tester- Python",
+      companyName: "PloPdo",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://plopdo.com/category/career/",
+      dateUpdated: "19/FEB/2024"
+    },
+	
+	{
+      jobTitle: "Python backend Developer",
+      companyName: "3RI Technologies Pvt. Ltd.",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:2.5,
+      applyURL: "https://3ritechnologies.com/job-openings/",
+      dateUpdated: "19/FEB/2024"
+    },
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "Intuit",
+      location: "Bengaluru, Karnataka",
+      yearsOfExperienceRequired:1.5,
+      applyURL: "https://www.intuit.com/in/careers/",
+      dateUpdated: "19/FEB/2024"
+    },
+	
+	
+	{
+      jobTitle: "Devops Engineer",
+      companyName: "Cognizant",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://careers.cognizant.com/global/en",
+      dateUpdated: "19/FEB/2024"
+    },
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "Ansys",
+      location: "Bengaluru, Karnataka",
+      yearsOfExperienceRequired:1,
+      applyURL: "https://www.ansys.com/en-in/careers",
+      dateUpdated: "19/FEB/2024"
+    },
 
 {
+      jobTitle: "Software Engineer",
+      companyName: "Cerence",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:0.2,
+      applyURL: "https://cerence.com/careers",
+      dateUpdated: "19/FEB/2024"
+    },
+	{
+      jobTitle: "Software Engineer",
+      companyName: "Cerence",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:0.2,
+      applyURL: "https://cerence.com/careers",
+      dateUpdated: "19/FEB/2024"
+    },
+	{
+      jobTitle: "Associate, Cloud Engineer",
+      companyName: "SitusAMC",
+      location: "Mumbai, Maharashtra",
+      yearsOfExperienceRequired:1.2,
+      applyURL: "https://careers.situsamc.com/work-at-situsamc/technology-careers",
+      dateUpdated: "19/FEB/2024"
+    },
+	
+     {
       jobTitle: "DevOps Engineer",
       companyName: "Amdocs",
       location: "Pune, Maharashtra",
