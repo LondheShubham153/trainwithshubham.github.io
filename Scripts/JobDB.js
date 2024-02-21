@@ -1,4 +1,85 @@
 const jobList = [
+
+	
+	
+	{
+      jobTitle: "Technical Lead-Cloud DevOps",
+      companyName: "PTC",
+      location: "Anywhere",
+      yearsOfExperienceRequired:4,
+      applyURL: "https://www.ptc.com/en/careers",
+      dateUpdated: "21/FEB/2024"
+    },
+	
+	{
+      jobTitle: "DevOps Track Sr.Engineer",
+      companyName: "Hexaware Technologies",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://hexaware.com/careers/join-hexaware/",
+      dateUpdated: "21/FEB/2024"
+    },
+	{
+      jobTitle:"Azure DevOps Engineer",
+      companyName: "SLB",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:6,
+      applyURL: "https://careers.slb.com/",
+      dateUpdated: "21/FEB/2024"
+    },
+	
+	{
+      jobTitle:"Senior DevOps Engineer (Azure)",
+      companyName: "Opcito Technologies",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://www.opcito.com/life-at-opcito#_careers",
+      dateUpdated: "21/FEB/2024"
+    },
+	
+	{
+      jobTitle: "DevOps Engineer- Intern ",
+      companyName: "ADAGRAD HQ",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://careers.adagrad.ai/",
+      dateUpdated: "21/FEB/2024"
+    },
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "Clarion Technologies",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:3,
+      applyURL: "https://www.clariontech.com/careers",
+      dateUpdated: "21/FEB/2024"
+    },
+	
+	
+	{
+      jobTitle: "Devops Engineer",
+      companyName: "Global Payments",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:4,
+      applyURL: "https://jobs.globalpayments.com/en/",
+      dateUpdated: "21/FEB/2024"
+    },
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "Panzura",
+      location: "Anywhere",
+      yearsOfExperienceRequired:1,
+      applyURL: "https://panzura.com/company/panzura-careers/",
+      dateUpdated: "21/FEB/2024"
+    },
+
+{
+      jobTitle: "Software Engineer",
+      companyName: "Ensono",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:0.2,
+      applyURL: "https://www.ensono.com/company/careers/",
+      dateUpdated: "21/FEB/2024"
+    },
 	
 	
 	{
