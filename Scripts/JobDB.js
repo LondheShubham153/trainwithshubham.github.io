@@ -3,6 +3,118 @@ const jobList = [
 	
 	
 	{
+      jobTitle: "DevOps Infrastructure Engineer - Docker/Kubernetes",
+      companyName: "BHS Corrugated India Pvt Ltd",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:6,
+      applyURL: "https://www.bhs-world.com/en/career",
+      dateUpdated: "25/FEB/2024"
+    },
+	
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "TEKsystems",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:4,
+      applyURL: "https://www.teksystems.com/en-in/careers",
+      dateUpdated: "25/FEB/2024"
+    },
+	{
+      jobTitle:"DevOps Engineer - CI/CD Tools",
+      companyName: "Axtria India Pvt Ltd",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:6,
+      applyURL: "https://www.axtria.com/axtria-careers/",
+      dateUpdated: "25/FEB/2024"
+    },
+	
+	{
+      jobTitle:"DevOps",
+      companyName: "Zensar Technologies",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:5,
+      applyURL: "https://in.expertini.com/jobs/search/devops-jobs-india/",
+      dateUpdated: "25/FEB/2024"
+    },
+	
+	{
+      jobTitle: "AWS Support Engineer",
+      companyName: "Xplor",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "https://www.xplortechnologies.com/us/careers",
+      dateUpdated: "25/FEB/2024"
+    },
+	{
+      jobTitle: "AWS DevOps Specialist",
+      companyName: "Synechron Technologies Private Limited",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:12,
+      applyURL: "https://www.synechron.com/en-in/careers",
+      dateUpdated: "25/FEB/2024"
+    },
+	
+	
+	{
+      jobTitle: "SENIOR DATA ENGINEER - SPARK, SCALA, AWS",
+      companyName: "Coforge Ltd.",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://careers.coforge.com/",
+      dateUpdated: "25/FEB/2024"
+    },
+	{
+      jobTitle: "Python,Aws",
+      companyName: "Fusion Plus Solutions Inc",
+      location: "Hyderabad, Telangana",
+      yearsOfExperienceRequired:5,
+      applyURL: "https://fusionplusinc.com/careers",
+      dateUpdated: "25/FEB/2024"
+    },
+
+{
+      jobTitle: "AWS Administrator",
+      companyName: "Softtek",
+      location: "Bengaluru, Karnataka",
+      yearsOfExperienceRequired:4,
+      applyURL: "https://www.softtek.com/careers",
+      dateUpdated: "25/FEB/2024"
+    },
+	{
+      jobTitle: "AWS Developer (full stack)",
+      companyName: "VIBRANT STAFFING SOLUTIONS PVT LTD",
+      location: "Bengaluru, Karnataka",
+      yearsOfExperienceRequired:5,
+      applyURL: "http://www.vibrant-staffing.com/Careers",
+      dateUpdated: "25/FEB/2024"
+    },
+	{
+      jobTitle: "Associate, Cloud Engineer",
+      companyName: "AWS Instructor",
+      location: "Gurugram, Haryana",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://ns3techsolutions.com/search-job.php",
+      dateUpdated: "25/FEB/2024"
+    },
+	
+	{
+      jobTitle: "AWS Engineer",
+      companyName: "Fujitsu",
+      location: "Noida, Uttar Pradesh",
+      yearsOfExperienceRequired:7,
+      applyURL: "https://www.fujitsu.com/global/about/careers/",
+      dateUpdated: "25/FEB/2024"
+    },
+	{
+      jobTitle: "Developer- Python, AWS",
+      companyName: "Caspex",
+      location: "Hyderabad, Telangana",
+      yearsOfExperienceRequired:1,
+      applyURL: "https://caspex.com/careers/",
+      dateUpdated: "25/FEB/2024"
+    },
+	
+      {
       jobTitle: "Technical Lead-Cloud DevOps",
       companyName: "PTC",
       location: "Anywhere",
