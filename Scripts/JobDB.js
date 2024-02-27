@@ -2,6 +2,88 @@ const jobList = [
 
 	
 	
+	
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "Helpshift",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:6,
+      applyURL: "https://www.helpshift.com/company/careers/",
+      dateUpdated: "28/FEB/2024"
+    },
+	
+	{
+      jobTitle: "DevOps Engineer",
+      companyName: "thinkbridge",
+      location: "Anywhere",
+      yearsOfExperienceRequired:6,
+      applyURL: "https://www.thinkbridge.com/careers",
+      dateUpdated: "28/FEB/2024"
+    },
+	{
+      jobTitle:"Engineer I, DevOps",
+      companyName: "Semtech",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:0.6,
+      applyURL: "https://www.semtech.com/careers",
+      dateUpdated: "28/FEB/2024"
+    },
+	
+	{
+      jobTitle:"DevOps",
+      companyName: "Diebold Nixdorf",
+      location: "Maharashtra",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://www.dieboldnixdorf.com/en-us/careers/",
+      dateUpdated: "28/FEB/2024"
+    },
+	
+	{
+      jobTitle: "Oracle Epm Cloud",
+      companyName: "Elfonze Technologies",
+      location: "Maharashtra",
+      yearsOfExperienceRequired:5,
+      applyURL: "https://elfonze.zohorecruit.in/jobs/Careers",
+      dateUpdated: "28/FEB/2024"
+    },
+	{
+      jobTitle: "Cloud and Infrastructure Jobs in Bangalore, India",
+      companyName: "Virtusa",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:1,
+      applyURL: "https://www.virtusa.com/careers",
+      dateUpdated: "28/FEB/2024"
+    },
+	
+	
+	{
+      jobTitle: "Cloud Developer",
+      companyName: "Bristol Myers Squibb",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:5,
+      applyURL: "https://careers.bms.com/in/",
+      dateUpdated: "28/FEB/2024"
+    },
+	{
+      jobTitle: "Python Developer ",
+      companyName: "QSP Technologies",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:2,
+      applyURL: "https://qspinfotech.com/careers.php",
+      dateUpdated: "28/FEB/2024"
+    },
+
+
+	
+	{
+      jobTitle: "Python-AWS Trainee",
+      companyName: "Futops",
+      location: "Pune, Maharashtra",
+      yearsOfExperienceRequired:0.1,
+      applyURL: "http://futopstech.com/",
+      dateUpdated: "28/FEB/2024"
+    },
+
 	{
       jobTitle: "DevOps Infrastructure Engineer - Docker/Kubernetes",
       companyName: "BHS Corrugated India Pvt Ltd",
